@@ -71,11 +71,11 @@ Add this content to your `hosts` file:
 0.0.0.0 release.gitkraken.com
 ```
 # 如何使用
-rm yarn.lock
-yarn install
-yarn build
-# windows gitbash
-node dist/bin/gitcracken.js patcher --asar ~/AppData/Local/gitkraken/app-6.5.0/resources/app.asar
-# mac 
-node dist/bin/gitcracken.js patcher --asar 你的gitkraken的目录/resources/app.asar
+- `rm yarn.lock`
+- `yarn install`
+- `yarn build`
+windows gitbash
+- `node dist/bin/gitcracken.js patcher --asar ~/AppData/Local/gitkraken/app-6.5.0/resources/app.asar`
+mac 
+- `node dist/bin/gitcracken.js patcher --asar 你的gitkraken的目录/resources/app.asar`
 
