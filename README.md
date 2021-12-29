@@ -70,7 +70,7 @@ Add this content to your `hosts` file:
 ```text
 0.0.0.0 release.gitkraken.com
 ```
-
+# 如何使用
 rm yarn.lock
 yarn install
 yarn build
