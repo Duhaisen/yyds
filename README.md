@@ -74,6 +74,7 @@ Add this content to your `hosts` file:
 - `rm yarn.lock`
 - `yarn install`
 - `yarn build`
+
 windows 
 ```bash
 node dist/bin/gitcracken.js patcher --asar ~/AppData/Local/gitkraken/app-6.5.0/resources/app.asar`
