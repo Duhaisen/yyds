@@ -77,9 +77,9 @@ Add this content to your `hosts` file:
 
 windows 
 ```bash
-node dist/bin/gitcracken.js patcher --asar ~/AppData/Local/gitkraken/app-6.5.0/resources/app.asar`
+node dist/bin/gitcracken.js patcher --asar ~/AppData/Local/gitkraken/app-6.5.0/resources/app.asar
 ```
 mac 
 ```bash
-- `node dist/bin/gitcracken.js patcher --asar 你的gitkraken的目录/resources/app.asar`
+node dist/bin/gitcracken.js patcher --asar 你的gitkraken的目录/resources/app.asar
 ```
