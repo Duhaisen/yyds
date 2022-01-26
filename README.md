@@ -75,9 +75,9 @@ Add this content to your `hosts` file:
 - `yarn install`
 - `yarn build`
 
-windows 
+windows （~/AppData/Local/gitkraken/app-7.4.0）
 ```bash
-node dist/bin/gitcracken.js patcher --asar ~/AppData/Local/gitkraken/app-6.5.0/resources/app.asar
+node dist/bin/gitcracken.js patcher --asar 你的gitkraken的目录/resources/app.asar
 ```
 mac 
 ```bash
